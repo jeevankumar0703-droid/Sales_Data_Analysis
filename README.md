@@ -1,0 +1,1 @@
+This is a beginner-level data analysis project where I analyzed sales performance using Excel and Python. The Goal was to clean,organize and visualize sales data to understand total revenue and identify key contributors.
